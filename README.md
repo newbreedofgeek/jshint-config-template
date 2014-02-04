@@ -29,4 +29,4 @@ JSHint Config Template
 
 
 ### Release History
-0.1.0 - (4/2/2014) Initial release. As used by [HTML5 Thor] (https://github.com/newbreedofgeek/html5-thor) version 2.0.0
+1.0.0 - (4/2/2014) Initial release. As used by [HTML5 Thor] (https://github.com/newbreedofgeek/html5-thor) version 2.0.0
