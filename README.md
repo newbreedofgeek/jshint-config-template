@@ -1,6 +1,8 @@
 JSHint Config Template
 ========================
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/newbreedofgeek/jshint-config-template/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 * For all the HTML5 frameworks I build, I use JSHint to ensure industry standards are being followed for JavaScript code
 
 * JSHint is an open source project with good documentation, [read more here](http://jshint.com/)
@@ -30,6 +32,4 @@ JSHint Config Template
 
 ### Release History
 1.0.0 - (4/2/2014) Initial release. As used by [HTML5 Thor] (https://github.com/newbreedofgeek/html5-thor) version 2.X
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/newbreedofgeek/jshint-config-template/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
