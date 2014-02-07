@@ -30,3 +30,6 @@ JSHint Config Template
 
 ### Release History
 1.0.0 - (4/2/2014) Initial release. As used by [HTML5 Thor] (https://github.com/newbreedofgeek/html5-thor) version 2.X
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/newbreedofgeek/jshint-config-template/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
